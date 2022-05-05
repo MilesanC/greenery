@@ -1,0 +1,24 @@
+.infoSection {
+    margin: 5rem 10rem;
+    color: rgb(54, 82, 47);
+}
+
+.infoHead{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.infoHead p{
+    width: 35rem;
+}
+
+.infoHead h1 {
+    font-size: 2rem;
+}
+
+.infoBox {
+    display: flex;
+    margin: 4rem 0;
+    font-size: 1.5rem;
+}

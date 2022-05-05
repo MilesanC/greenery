@@ -1,0 +1,24 @@
+.about {
+  margin: 4rem 7rem;
+  display: flex;
+  color: rgb(54, 82, 47);
+}
+
+.about img {
+  width: 41rem;
+  border-radius: 6px;
+}
+
+.info {
+  margin-left: 2rem;
+}
+
+.info h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  border-bottom: rgb(159, 98, 28) solid;
+}
+
+.info p {
+  font-size: 1.2rem;
+}

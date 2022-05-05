@@ -1,0 +1,29 @@
+.intro {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 3.2rem;
+  height: 70vh;
+  margin: 4rem 10rem;
+}
+
+.intro h1 {
+  font-size: 3rem;
+  color: rgb(54, 82, 47);
+}
+
+.intro img {
+  width: 38rem;
+  border-radius: 6px;
+}
+
+.intro p {
+  font-size: 1.2rem;
+  color: rgb(54, 82, 47);
+}
+
+.intro .flower {
+  position: relative;
+  bottom: 13rem;
+  left: 36rem;
+  width: 10rem;
+}

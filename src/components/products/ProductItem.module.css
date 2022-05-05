@@ -1,0 +1,30 @@
+.product {
+  margin: 2rem;
+  margin-bottom: 1rem;
+}
+
+.product img:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.product img {
+    width: 18rem;
+    border-radius: 6px;
+}
+
+.detail {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.3rem;
+  color: rgb(54, 82, 47);
+}
+
+.detail span {
+  color: rgb(159, 98, 28);
+  font-weight: bold;
+}
+
+details p{
+    margin-bottom: 0;
+}

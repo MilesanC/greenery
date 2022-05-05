@@ -1,0 +1,25 @@
+.container {
+  color: rgb(54, 82, 47);
+  border-bottom: rgb(54, 82, 47) solid 1px;
+}
+
+.container h1 {
+  font-size: 2.5rem;
+  margin: 0;
+  margin-top: 2rem;
+}
+
+.container h2 {
+  color: rgb(159, 98, 28);
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+.container p {
+  font-size: 1.2rem;
+}
+
+.container h3 span {
+  font-weight: normal;
+  color: rgb(159, 98, 28);
+}

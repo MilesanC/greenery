@@ -1,0 +1,11 @@
+.box {
+  text-align: center;
+  background-color: rgb(159, 98, 28);
+  margin: 0 1rem;
+  padding: 2rem;
+  border-radius: 6px;
+}
+
+.box p {
+  font-size: 1.2rem;
+}

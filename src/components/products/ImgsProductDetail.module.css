@@ -1,0 +1,36 @@
+.container {
+  margin: 2rem 0;
+  max-width: 33rem;
+  width: 33rem;
+}
+
+.smallImg {
+  max-width: 7.5rem;
+  max-height: 7.5rem;
+  width: 7.5rem;
+  border-radius: 6px;
+}
+
+.smallImg:hover {
+  cursor: pointer;
+}
+
+.active {
+  border: rgb(159, 98, 28) solid 0.1rem;
+  border-radius: 6px;
+  max-width: 7.4rem;
+  max-height: 7.4rem;
+  width: 7.4rem;
+}
+
+.bigImg {
+  width: 33rem;
+  height: 33rem;
+  border-radius: 6px;
+}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}

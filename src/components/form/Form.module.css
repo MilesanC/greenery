@@ -1,0 +1,6 @@
+.content {
+  margin: 1rem 3rem 4rem 10rem;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}

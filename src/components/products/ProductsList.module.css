@@ -1,0 +1,9 @@
+.lista{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.lista h2{
+    margin: 2rem 1rem;
+    color: rgb(54, 82, 47);
+}

@@ -1,0 +1,25 @@
+.ourProducts {
+  background-color: rgb(137, 180, 137);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 0;
+}
+
+.ourProducts h1{
+    font-size: 3rem;
+    color: rgb(54, 82, 47);
+    border-bottom: rgb(159, 98, 28) solid;
+    margin: 0;
+    margin-bottom: 2rem;
+}
+
+.ourProducts h2{
+  font-size: 3rem;
+  color: rgb(54, 82, 47);
+}
+
+.productsContainer{
+    display: flex;
+    margin-bottom: 2rem;
+}
